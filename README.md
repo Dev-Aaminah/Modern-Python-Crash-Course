@@ -30,8 +30,6 @@ Follow these steps to set up your development environment:
 3. **Install Python Plugin for VS Code**
    - [Python Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-4. **Read the Installation Document**
-   - [Installation Reference Document](link-to-document)
 
 ## Text Books
 
