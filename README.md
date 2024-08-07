@@ -50,16 +50,6 @@ As of Python 3.9, type aliases like `List`, `Tuple`, `Dict`, etc., from the `typ
 1. **Comprehensive Data Analysis with Pandas**
 2. **Pandas Project: Make a Gradebook with Python & Pandas**
 3. **Design Patterns in Python**
-   - [YouTube Playlist](https://www.youtube.com/playlist?list=PLj5pwj8JzJ10U_jG1BwfgPO8pf1LywfDt)
-
-## Class Recordings
-
-Access recorded class sessions through the following resources:
-
-- **Recorded Classes YouTube Playlist**
-  - [YouTube Playlist](link-to-playlist)
-
-**Note:** Each class notebook contains a reference to the corresponding class recording video link.
 
 
 For further information and additional resources, please refer to the provided links and documentation.
