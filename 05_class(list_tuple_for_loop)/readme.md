@@ -28,8 +28,12 @@ A list in Python is a collection of items which can be of different types. Lists
 my_list = [1, 2, 3, 4, 5]
 print(my_list)
 
+___
+
 ## For Loop
 A for loop in Python is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+
+___
 
 ### Example:
 ```python
@@ -37,8 +41,12 @@ fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
 
+___
+
 ## Else with For Loop
 The `else` keyword in a for loop specifies a block of code to be executed when the loop is finished.
+
+___
 
 ### Example:
 ```python
@@ -47,8 +55,12 @@ for x in range(5):
 else:
   print("Finished!")
 
+___
+
 ## List Comprehension
 List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
+
+___
 
 ### Example:
 ```python
@@ -56,22 +68,32 @@ fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 newlist = [x for x in fruits if "a" in x]
 print(newlist)
 
+___
+
 ## Tuples
 A tuple is a collection which is ordered and unchangeable. Tuples are written with round brackets.
+
+___
 
 ### Example:
 ```python
 my_tuple = (1, 2, 3, 4, 5)
 print(my_tuple)
 
+___
+
 ## Methods
 Here are some commonly used methods for lists and tuples:
+
+___
 
 ### List Methods:
 - `append()`: Adds an element at the end of the list
 - `extend()`: Add the elements of a list (or any iterable) to the end of the current list
 - `remove()`: Removes the first item with the specified value
 
+___
+
 ### Tuple Methods:
 - `count()`: Returns the number of times a specified value occurs in a tuple
-- `index()`: Searches the tuple for a specified value and returns the position of where it was found
+- `index()`: Searches the tuple for a specified value and returns the position of where it was found.
