@@ -43,7 +43,6 @@ for x in fruits:
 ## Else with For Loop
 The `else` keyword in a for loop specifies a block of code to be executed when the loop is finished.
 
-___
 
 ### Example:
 ```python
@@ -56,8 +55,6 @@ else:
 
 ## List Comprehension
 List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
-
-
 
 ### Example:
 ```python
@@ -81,14 +78,12 @@ print(my_tuple)
 ## Methods
 Here are some commonly used methods for lists and tuples:
 
-___
 
 ### List Methods:
 - `append()`: Adds an element at the end of the list
 - `extend()`: Add the elements of a list (or any iterable) to the end of the current list
 - `remove()`: Removes the first item with the specified value
 
-___
 
 ### Tuple Methods:
 - `count()`: Returns the number of times a specified value occurs in a tuple
