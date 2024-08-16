@@ -15,7 +15,6 @@ This document provides a comprehensive guide on various Python data structures s
   - [List Comprehension](#list-comprehension)
     - [Example:](#example-3)
   - [Tuples](#tuples)
-    - [Example:](#example-4)
   - [Methods](#methods)
     - [List Methods:](#list-methods)
     - [Tuple Methods:](#tuple-methods)
@@ -27,13 +26,11 @@ A list in Python is a collection of items which can be of different types. Lists
 ```python
 my_list = [1, 2, 3, 4, 5]
 print(my_list)
-
-___
+```
 
 ## For Loop
 A for loop in Python is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
 
-___
 
 ### Example:
 ```python
@@ -41,7 +38,7 @@ fruits = ["apple", "banana", "cherry"]
 for x in fruits:
   print(x)
 
-___
+```
 
 ## Else with For Loop
 The `else` keyword in a for loop specifies a block of code to be executed when the loop is finished.
@@ -55,12 +52,12 @@ for x in range(5):
 else:
   print("Finished!")
 
-___
+```
 
 ## List Comprehension
 List comprehension offers a shorter syntax when you want to create a new list based on the values of an existing list.
 
-___
+
 
 ### Example:
 ```python
@@ -68,19 +65,18 @@ fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 newlist = [x for x in fruits if "a" in x]
 print(newlist)
 
-___
+```
 
 ## Tuples
 A tuple is a collection which is ordered and unchangeable. Tuples are written with round brackets.
 
-___
-
+```
 ### Example:
 ```python
 my_tuple = (1, 2, 3, 4, 5)
 print(my_tuple)
 
-___
+```
 
 ## Methods
 Here are some commonly used methods for lists and tuples:
